@@ -1,0 +1,12 @@
+{
+    "name": "react-repeat1",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "hello world!"
+    },
+    "author": "",
+    "license": "ISC"
+    
+}
